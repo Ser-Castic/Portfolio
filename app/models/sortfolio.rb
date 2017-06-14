@@ -1,0 +1,2 @@
+class Sortfolio < ApplicationRecord
+end

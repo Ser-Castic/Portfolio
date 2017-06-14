@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :sortfolios
   get 'pages/home'
 
   get 'pages/about'

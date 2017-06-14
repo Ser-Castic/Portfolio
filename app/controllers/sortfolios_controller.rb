@@ -1,0 +1,2 @@
+class SortfoliosController < ApplicationController
+end
